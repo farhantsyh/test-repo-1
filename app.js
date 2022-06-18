@@ -1,5 +1,6 @@
-const phi = 3.14
-const r = 100
-const area = phi * r * r
+function findCircleArea(r) {
+  return 3.14 * r * r;
+}
 
+const area = findCircleArea(10);
 console.log(area)
