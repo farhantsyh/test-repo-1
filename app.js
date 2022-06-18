@@ -1,4 +1,4 @@
 const findSquareArea = s => s * s;
 
-const local = findSquareArea(5);
-console.log(local)
+const squareArea = findSquareArea(5);
+console.log(squareArea);
