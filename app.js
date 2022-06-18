@@ -1,6 +1,6 @@
-function findCircleArea(r) {
-  return 3.14 * r * r;
+function findSquareArea(s) {
+  return s * s;
 }
 
-const area = findCircleArea(10);
+const area = findSquareArea(5);
 console.log(area)
